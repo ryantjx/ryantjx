@@ -16,8 +16,8 @@ If this projects look interesting, would love to hear your thoughts / collaborat
 
 ## About Me
 ### Contact
-📧 Email : [ryan.tanjunxiong@gmail.com](mailto:ryan.tanjunxiong@gmail.com) \\
-LinkedIn: [ryantjx](https://www.linkedin.com/in/ryantjx)
+- 📧 Email : [ryan.tanjunxiong@gmail.com](mailto:ryan.tanjunxiong@gmail.com)
+- LinkedIn: [ryantjx](https://www.linkedin.com/in/ryantjx)
 
 ### Hobbies
 - 🏂 Snowboarding and Skiing ⛷️
