@@ -1,18 +1,22 @@
 # Ryan Tan
+Hey everyone, Ryan Tan here. Aspiring Quantitative Researcher.
+
 ## Projects 
 - [Leveraged Portfolio with Perpetual Instruments (Live)](https://github.com/ryantjx/perpetuals-profitability) - Identifying optimal portfolio leverage
 - [Digital Assets Options Pricing](https://github.com/ryantjx/digital-asset-options-pricing) - Studying the pricing of Digital Asset Options, identifying mispricings, developing options strategies.
-
-If this projects look interesting, would love to hear your thoughts / collaborate!
-
+  
 ## Professional
-- Quantitative Analyst @ Maven11
-- Data Analyst Intern @ Stablecorp
-- I4.0 Analyst @ Micron Technologies
+- Quantitative Analyst @ Maven11 | Sep 2023 - Jul 2024
+- Data Analyst Intern @ Stablecorp | Aug 2022 - Jul 2023
+- I4.0 Analyst Intern @ Micron Technologies | May 2022 - Aug 2022
+- Artillery Officer @ SAF | Apr 2018 - Feb 2020
 
 ## Academic
 - BoS(Business Analytics) @ National University of Singapore
+  - Relevant Coursework: Data Structures & Algorithms, Time Series Analysis, Financial Risk Analytics, Probability & Statistics, Regression Analysis
   - NUS Overseas College (Toronto)
+  - ETHWaterloo 2024 - 2x Partner Prizes
+  - 
 
 ## About Me
 ### Contact
@@ -33,6 +37,12 @@ If this projects look interesting, would love to hear your thoughts / collaborat
   - 🇺🇸 Grand Canyon National Park
 - 🏃 Running
 - 🚴‍♂️ Road Cycling
+
+### Languages
+- English
+- Mandarin/Chinese
+- Spanish (A1)
+
 <!--
 **ryantjx/ryantjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
