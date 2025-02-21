@@ -1,5 +1,5 @@
 # Ryan Tan
-Hey everyone, Ryan Tan here. Aspiring Quantitative Researcher.
+Hey everyone, Ryan Tan here. Recent graduate from NUS, aspiring Quantitative Researcher. Started in digital assets at the end 2022, and diving deep into systematic trading, and then quantitative finance since 2024. Entrepreneurial, adventurous and constantly curious. 
 
 ## Projects 
 - [Leveraged Portfolio with Perpetual Instruments (Live)](https://github.com/ryantjx/perpetuals-profitability) - Identifying optimal portfolio leverage
