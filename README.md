@@ -1,9 +1,17 @@
 # Ryan Tan
-Hey everyone, Ryan Tan here. Recent graduate from NUS, aspiring Quantitative Researcher. Started in digital assets at the end 2022, and diving deep into systematic trading, and then quantitative finance since 2024. Entrepreneurial, adventurous and constantly curious. 
+Hey everyone, Ryan Tan here. Recent graduate from NUS, aspiring Quantitative Researcher in Options Market Making. Started in digital assets at the end 2022, and diving deep into systematic trading, and then quantitative finance since 2024. Entrepreneurial, adventurous and constantly curious. 
 
-## Projects 
-- [Stochastic Modelling of Digital Asset Perpetual Futures(Live)](https://github.com/ryantjx/stochastic-modelling-of-digital-asset-perpetual-futures) - Identifying optimal portfolio leverage
-- [Digital Assets Options Pricing](https://github.com/ryantjx/digital-asset-options-pricing) - Studying the pricing of Digital Asset Options, identifying mispricings, developing options strategies.
+My focus now is testing quantitative models in digital assets. Currently I have 2 projects,
+
+- Main Projects: [Digital Assets Options Pricing](https://github.com/ryantjx/digital-asset-options-pricing)
+  - Studying the pricing models of Digital Asset Options
+  - Identifying mispricings on Deribit BTC options.
+  - Developing option strategies.
+- Other Projects
+  - [Stochastic Modelling of Digital Asset Perpetual Futures(Live)](https://github.com/ryantjx/stochastic-modelling-of-digital-asset-perpetual-futures)
+    - Simulation of a perpetual future leveraged position.
+    - Running live since Feb 5 2025.
+    - End date: 31 March 2025.
   
 ## Professional
 - Quantitative Analyst @ Maven11 | Sep 2023 - Jul 2024
