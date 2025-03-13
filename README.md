@@ -1,5 +1,5 @@
 # Ryan Tan
-Hey everyone, Ryan Tan here. Recent graduate from NUS, aspiring Quantitative Researcher in Options Market Making. Started in digital assets at the end 2022, and diving deep into systematic trading, and then quantitative finance since 2024. Entrepreneurial, adventurous and constantly curious. 
+Hey everyone, Ryan Tan here. BSc Business Analytics (Financial Analytics) graduate from NUS, aspiring Quantitative Researcher in Options. Started in digital assets at the end 2022, and diving deep into systematic trading with Stablecorp and Maven11. Entrepreneurial, adventurous and constantly curious.
 
 My focus now is testing quantitative models in digital assets. Currently I have 2 projects,
 
