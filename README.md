@@ -34,6 +34,7 @@ My focus now is testing quantitative models in digital assets. Currently I have 
 ### Hobbies
 - 🏂 Snowboarding and Skiing ⛷️
 - 🥾 Hiking/Camping 🏕️
+<!---
   - 🇫🇷 [Tour Du Mont Blanc(6 Days)](https://www.komoot.com/collection/1255524/hiking-on-the-roof-of-europe-tour-du-mont-blanc) 
   - 🇮🇹 [Alta Via 2, Dolomites](https://www.komoot.com/collection/2428920/in-the-wake-of-legends-the-alta-via-2-of-the-dolomites) 
   - 🇦🇹 [Inntal High Trail](https://www.komoot.com/collection/1175259/six-stages-on-the-inntaler-high-trail-great-walks)
@@ -43,6 +44,7 @@ My focus now is testing quantitative models in digital assets. Currently I have 
   - 🇨🇦 Algonquin Provincial Park
   - 🇺🇸 Zion National Park
   - 🇺🇸 Grand Canyon National Park
+--->
 - 🏃 Running
 - 🚴‍♂️ Road Cycling
 
@@ -50,6 +52,9 @@ My focus now is testing quantitative models in digital assets. Currently I have 
 - English
 - Mandarin/Chinese
 - Spanish (A1)
+
+### Writings
+<iframe src="https://ryantjx.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 <!--
 **ryantjx/ryantjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
