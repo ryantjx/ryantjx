@@ -43,8 +43,7 @@ My focus now is testing quantitative models in digital assets. Currently I have 
   - 🇨🇦 Banff National Park
   - 🇨🇦 Algonquin Provincial Park
   - 🇺🇸 Zion National Park
-  - 🇺🇸 Grand Canyon National Park
---->
+  - 🇺🇸 Grand Canyon National Park--->
 - 🏃 Running
 - 🚴‍♂️ Road Cycling
 
@@ -52,9 +51,6 @@ My focus now is testing quantitative models in digital assets. Currently I have 
 - English
 - Mandarin/Chinese
 - Spanish (A1)
-
-### Writings
-<iframe src="https://ryantjx.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 <!--
 **ryantjx/ryantjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
