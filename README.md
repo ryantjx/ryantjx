@@ -12,6 +12,8 @@ My focus now is testing quantitative models in digital assets. Currently I have 
     - Simulation of a perpetual future leveraged position.
     - Running live since Feb 5 2025.
     - End date: 31 March 2025.
+  - Backlog
+    - Quantile Regression 
   
 ## Professional
 - Quantitative Analyst @ Maven11 | Sep 2023 - Jul 2024
@@ -28,8 +30,9 @@ My focus now is testing quantitative models in digital assets. Currently I have 
 
 ## About Me
 ### Contact
-- 📧 Email : [ryan.tanjunxiong@gmail.com](mailto:ryan.tanjunxiong@gmail.com)
-- LinkedIn: [ryantjx](https://www.linkedin.com/in/ryantjx)
+- [📧 ryan.tanjunxiong@gmail.com](mailto:ryan.tanjunxiong@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ryantjx)
+- I write sometimes on [Substack](https://ryantjx.substack.com/)
 
 ### Hobbies
 - 🏂 Snowboarding and Skiing ⛷️
