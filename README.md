@@ -1,28 +1,35 @@
 # Ryan Tan
-Hey everyone, Ryan here. I am currently pursuing a MSc Statistics at the University of Warwick, where my research interest lies in computationally intensive statistical methods. I graduated with a BSc Business Analytics with Honours (Distinction) from the National University of Singapore.
+Hey everyone, Ryan here. I am currently pursuing a MSc Statistics at the University of Warwick, where my research interest lies in computational statistics with machine learning. I graduated with a BSc Business Analytics with Honours (Distinction) from the National University of Singapore.
 
-I started my journey in digital assets with Stablecorp, and then continued down the path of algorithmic trading development with Maven11, and then Bastion Trading.
-
-Feel free to reach out on linkedin if any of my projects interest you!
-
-## Professional
-- Quantitative Analyst @ Maven11 | Sep 2023 - Jul 2024
-- Data Analyst Intern @ Stablecorp | Aug 2022 - Jul 2023
-- I4.0 Analyst Intern @ Micron Technologies | May 2022 - Aug 2022
-- Artillery Officer @ SAF | Apr 2018 - Feb 2020
+📫 Feel free to reach out to me on LinkedIn if my projects interests you!
 
 ## Academic
 - MSc Statistics @ University of Warwick
+  - Warwick Quant - Head of Projects
+  - Warwick Finance Society (WFS) Mathematical Finance Magazine - Contributor
 - BSc(Business Analytics) @ National University of Singapore
   - NUS Overseas College (Toronto)
   - ETHWaterloo 2024 - 2x Partner Prizes (worth $3000 USD)
   - NUS Venture Initiation Programme (worth $10,000 SGD)
+
+## Professional
+- Quant Intern @ Bastion Trading | Jul 2025 - Sep 2025
+- Data Analyst Intern @ Maven11 | Sep 2023 - Jul 2024
+- Data Analyst Intern @ Stablecorp | Aug 2022 - Jul 2023
+- I4.0 Analyst Intern @ Micron Technologies | May 2022 - Aug 2022
+- Artillery Officer @ SAF | Apr 2018 - Feb 2020
+
 
 ## About Me
 ### Contact
 - My website [ryantjx.github.io](https://ryantjx.github.io/)
 - Reach out on [LinkedIn](https://www.linkedin.com/in/ryantjx)
 - I write sometimes on [Substack](https://ryantjx.substack.com/)
+
+### Languages
+- English
+- Mandarin/Chinese
+- Spanish (A1)
 
 ### Hobbies
 - 🏃🚴‍♂️ Triathlon
@@ -39,10 +46,7 @@ Feel free to reach out on linkedin if any of my projects interest you!
   - 🇺🇸 Grand Canyon National Park--->
 - 🏂 Snowboarding and Skiing ⛷️
 
-### Languages
-- English
-- Mandarin/Chinese
-- Spanish (A1)
+
 
 <!--
 **ryantjx/ryantjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
