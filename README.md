@@ -1,9 +1,14 @@
 # Ryan Tan
-Hey everyone, Ryan here. I am currently pursuing a MSc Statistics at the University of Warwick, where my research interest lies in computational statistics with machine learning. I graduated with a BSc Business Analytics with Honours (Distinction) from the National University of Singapore.
+Hey everyone, Ryan here. I am currently pursuing a MSc Statistics at the University of Warwick, where my research interest lies in computational statistics. I graduated with a BSc Business Analytics with Honours (Distinction) from the National University of Singapore in 2025.
+
+You can find out more about me on [my website](https://ryantjx.github.io/).
+
+Tech Stack: Python (and ML packages), Java, SQL, R. Learning C++.
+Languages: English (Professional), Chinese (Native), Spanish (A1)
 
 📫 Feel free to reach out to me on LinkedIn if my projects interests you!
 
-## Academic
+<!--- ## Academic
 - MSc Statistics @ University of Warwick
   - Warwick Quant - Head of Projects
   - Warwick Finance Society (WFS) Mathematical Finance Magazine - Contributor
@@ -22,7 +27,7 @@ Hey everyone, Ryan here. I am currently pursuing a MSc Statistics at the Univers
 
 ## About Me
 ### Contact
-- My website [ryantjx.github.io](https://ryantjx.github.io/)
+- My website 
 - Reach out on [LinkedIn](https://www.linkedin.com/in/ryantjx)
 - I write sometimes on [Substack](https://ryantjx.substack.com/)
 
@@ -34,6 +39,7 @@ Hey everyone, Ryan here. I am currently pursuing a MSc Statistics at the Univers
 ### Hobbies
 - 🏃🚴‍♂️ Triathlon
 - 🥾 Hiking/Camping 🏕️
+-->
 <!---
   - 🇫🇷 [Tour Du Mont Blanc(6 Days)](https://www.komoot.com/collection/1255524/hiking-on-the-roof-of-europe-tour-du-mont-blanc) 
   - 🇮🇹 [Alta Via 2, Dolomites](https://www.komoot.com/collection/2428920/in-the-wake-of-legends-the-alta-via-2-of-the-dolomites) 
@@ -43,8 +49,8 @@ Hey everyone, Ryan here. I am currently pursuing a MSc Statistics at the Univers
   - 🇨🇦 Banff National Park
   - 🇨🇦 Algonquin Provincial Park
   - 🇺🇸 Zion National Park
-  - 🇺🇸 Grand Canyon National Park--->
-- 🏂 Snowboarding and Skiing ⛷️
+  - 🇺🇸 Grand Canyon National Park
+- 🏂 Snowboarding and Skiing ⛷️--->
 
 
 
