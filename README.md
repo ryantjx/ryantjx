@@ -1,12 +1,9 @@
 # Ryan Tan
-Hey everyone, Ryan here. I am currently pursuing a MSc Statistics at the University of Warwick, where my research interest lies in computational statistics. I graduated with a BSc Business Analytics with Honours (Distinction) from the National University of Singapore in 2025.
+Hey everyone, Ryan here. You can find out more about me on [my website](https://ryantjx.github.io/).
 
-You can find out more about me on [my website](https://ryantjx.github.io/).
-
-Tech Stack: Python (and ML packages), Java, SQL, R. Learning C++.
 Languages: English (Professional), Chinese (Native), Spanish (A1)
 
-📫 Feel free to reach out to me on LinkedIn if my projects interests you!
+📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ryantjx/) if my projects interests you!
 
 <!--- ## Academic
 - MSc Statistics @ University of Warwick
